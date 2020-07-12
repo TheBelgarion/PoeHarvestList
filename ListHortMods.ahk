@@ -32,7 +32,7 @@ DataButtonReset:
 return
 
 
-;Check Clip Data
+;Check Clip Data taken from https://github.com/Skullfurious/Hortisorty
 CheckClipData()
 {
   clip := Clipboard
