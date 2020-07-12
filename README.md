@@ -9,7 +9,7 @@ A Simple Horticrafting Station Mod Sort/Output for Path of Exile!
 
 # How to setup
 
-1) download anythere you like
+1) download anywhere you like
 2) start by doubleclicking after you installed AHK
 
 # How to Use
