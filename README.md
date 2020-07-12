@@ -16,9 +16,9 @@ A Simple Horticrafting Station Mod Sort/Output for Path of Exile!
 
 1) put all your Horticrafting Stations in your inventory / Stash Tab
 
-2) use CTRL+C on each ONCE! you will the a small ToolTip notification
+2) use CTRL+C on each ONCE! you will see a small ToolTip notification
 
-3) go to the window and sort if you like
+3) after you finished go to the window and sort if you like
 
 4) just CTRL+C to your notepad or application of choice and use as you see fit
 
